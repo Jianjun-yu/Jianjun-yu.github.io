@@ -30,14 +30,11 @@ interests:
   - Chinese Politics
 
 # Education to show in About widget
-education:
+education & working experience:
   courses:
     - course: Ph.D. in Political Science
       institution: The University of Iowa
       year: Expected 2024
-    - course: MA in Political Science
-      institution: The University of Iowa
-      year: 2021
     - course: Software Test Engineer 
       institution: NetEase, Inc, Hongzhou, China
       year: 2019
