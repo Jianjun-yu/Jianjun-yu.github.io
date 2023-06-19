@@ -4,14 +4,15 @@ title:
 date: 2022-10-24
 type: landing
 
-  - block: about.biography
+sections:
+  - block: biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block : cover
-    content:
+  - block: cover
+    text: Greetings. I am currently pursuing my Ph.D. in the Political Science Department at the University of Iowa. My primary research areas include political communication and public opinion within the context of China, automated content analysis, and causal inference. My work focuses on understanding the influence of government-led propaganda on Chinese public sentiment and the impact of public opinion on policy formulation and official appointments. My research methodology leverages advanced computational methods, employing these to collect, analyze, and derive causal inferences from large-scale text and image data. 
     
 
   - block: Research
