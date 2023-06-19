@@ -1,28 +1,26 @@
----
+![image](https://github.com/Jianjun-yu/starter-hugo-academic/assets/62717863/e9466883-0502-4d78-87ac-7ba53c07b0dc)---
 # Display name
-title: Alice Wu 吳恩達
+title: Jianjun Yu 于建钧
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jianjun
+last_name: Yu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📝
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Iowa
+    url: https://uiowa.edu/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
