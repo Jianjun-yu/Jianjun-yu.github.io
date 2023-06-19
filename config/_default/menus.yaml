@@ -10,16 +10,19 @@ main:
   - name: RESEARCH
     url: '#posts'
     weight: 20
-  - name: SOFTWARE AND DATA
-    url: '#projects'
+  - name: SOFTWARE
+    url: '#software'
     weight: 30
-  - name: TEACHING
-    url: '#talks'
+  - name: DATA
+    url: '#data'
     weight: 40
+  - name: TEACHING
+    url: '#teaching'
+    weight: 50
  - name: CV
     url: uploads/resume.pdf
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
