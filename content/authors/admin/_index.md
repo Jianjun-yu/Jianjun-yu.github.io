@@ -86,5 +86,5 @@ email: 'Jianjyu@uiowa.edu'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Greetings. I am currently pursuing my Ph.D. in the Political Science Department at the University of Iowa. My primary research areas include political communication and public opinion within the context of China, automated content analysis, and causal inference. My work focuses on understanding the influence of government-led propaganda on Chinese public sentiment and the impact of public opinion on policy formulation and official appointments. My research methodology leverages advanced computational methods, employing these to collect, analyze, and derive causal inferences from large-scale text and image data. 
 {style="text-align: justify;"}
