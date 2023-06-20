@@ -11,18 +11,15 @@ main:
     url: '#posts'
     weight: 20
   - name: SOFTWARE
-    url: '#software'
+    url: '#projects'
     weight: 30
   - name: DATA
-    url: '#data'
+    url: '#projects'
     weight: 40
   - name: TEACHING
-    url: '#teaching'
+    url: '#projects'
     weight: 50
- - name: CV
-    url: uploads/resume.pdf
-    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
 

@@ -1,4 +1,4 @@
-![image](https://github.com/Jianjun-yu/starter-hugo-academic/assets/62717863/e9466883-0502-4d78-87ac-7ba53c07b0dc)---
+---
 # Display name
 title: Jianjun Yu 于建钧
 
