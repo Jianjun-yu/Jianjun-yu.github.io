@@ -95,11 +95,13 @@ sections:
   - block: collection
     content:
       title: Working paper
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
 
   - block: portfolio
     id: software
