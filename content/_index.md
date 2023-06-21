@@ -5,10 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
+  - block: about.personal
     id: about
     content:
-      title: Biography
+      title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
@@ -29,7 +29,6 @@ sections:
       columns: '2'
       view: card  
 
-
   - block: collection
     content:
       title: Under Review
@@ -37,9 +36,11 @@ sections:
         folders:
           - publication
         exclude_featured: true
+        # under reviews are 2 , working papers are 3
+        publication_type: "2"
     design:
       columns: '2'
-      view: citation
+        
 
   - block: experience
     content:
@@ -53,42 +54,28 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Large Language Model to Replace Human Labeling
-          company: The Annual Meeting of the Political Methodology Society
-          date_start: '2023-06-01'
-          date_end: '2023-06-01'
-          description: 
-        - title: Transformer-based Language Models for Text Clustering
-          company: The Annual Meeting of the Political Methodology Society
-          date_start: '2023-06-01'
-          date_end: '2023-06-01'
-          description: 
-        - title: Personality Cult or Performance---Strategies of Local Government Propaganda in China
-          company: The Annual Midwest Political Science Association Conference
-          date_start: '2022-04-04'
-          date_end: '2020-04-04'
-          description: 
-        - title: Signaling to Leaders, not People---Understanding the Mechanics of Chinese Local Government Propaganda
-          company: The Annual Midwest Political Science Association Conference
-          date_start: '2023-04-04'
-          date_end: '2023-04-04'
-          description: 
+        - title: American Political Science Association Annual Meeting & Exhibition
+          company_logo: apsa
+          description: |2-
+            Spillover Racism: Explain Discrimination against Asian Americans, 2023
 
-        - title: A Proper Topic Model for Short Text
-          company: The Annual Meeting of the Political Methodology Society 
-          date_start: '2022-06-01'
-          date_end: '2022-06-02'
-          description:            
-        - title: Personality Cult or Performance---Strategies of Local Government Propaganda in China
-          company: The Annual Midwest Political Science Association Conference
-          date_start: '2022-04-04'
-          date_end: '2020-04-04'
-          description: 
-        - title: How Do Chinese Local Governments Use Social Media to Communicate with their People?
-          company: Broadening Our Approach, A Workshop on Comparative Political Communication
-          date_start: '2022-03-01'
-          date_end: '2020-03-01'
-          description:
+            Personality Cult or Performance? Chinese Strategies of Government Propaganda, with Shuyuan Shen, 2023
+        - title: The Annual Meeting of the Political Methodology Society
+          company_logo: polmeth
+          description: |2-
+            Poster: Large Language Model to Replace Human Labeling, with Rongxing Ouyang , 2023 
+            
+            Poster: Transformer-based Language Models for Text Clustering, 2023
+            
+            Poster: A Proper Topic Model for Short Text, 2022
+        - title: The Annual Midwest Political Science Association Conference
+          company_logo: mpsa
+          description: |2-
+            Signaling to Leaders not People: Understanding the Mechanics of Chinese Local Government Propaganda, 2023
+
+            Personality Cult or Performance? Strategies of Local Government Propaganda in China, 2022
+        - title: Broadening Our Approach, A Workshop on Comparative Political Communication. Duke University, Durham, NC, 2022
+          description: How Do Chinese Local Governments Use Social Media to Communicate with their People?
     design:
       columns: '2'
 
@@ -99,9 +86,12 @@ sections:
         folders:
           - publication
         exclude_featured: true
+        # under reviews are 2 , working papers are 3
+        publication_type: "3"
     design:
       columns: '2'
       view: citation
+
 
   - block: portfolio
     id: software

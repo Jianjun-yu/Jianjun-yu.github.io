@@ -30,7 +30,7 @@ interests:
   - Chinese Politics
 
 # Education to show in About widget
-education & working experience:
+education:
   courses:
     - course: Ph.D. in Political Science
       institution: The University of Iowa
@@ -47,7 +47,10 @@ education & working experience:
     - course: BA in International Relation
       institution: SUN YAT-SEN UNIVERSITY
       year: 2017
-      
+Working:
+  courses:
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
