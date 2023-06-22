@@ -180,23 +180,18 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: test@example.org
-      phone: 888 888 88 88
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+      email: jianjyu@uiowa.edu
+      phone: 508 410 0418
+      address:
+        street: 371 Schaeffer Hall
+        city: Iowa city
+        region: IA
+        postcode: '52240'
+        country: United States
+        country_code: US
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
