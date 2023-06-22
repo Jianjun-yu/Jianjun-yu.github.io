@@ -38,8 +38,7 @@ sections:
         exclude_featured: true
         # under reviews are 2 , working papers are 3
         publication_type: "2"
-    design:
-      columns: '2'
+
         
 
   - block: experience
@@ -109,9 +108,11 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: Wechat spider
-          tag: 'Wechat spider'
+          tag: 'wechat_spider'
         - name: Twitter spider
-          tag: 'Twitter spider'
+          tag: 'twitter_spider'
+        - name: Bibtransfer
+          tag: 'bibtransfer'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
