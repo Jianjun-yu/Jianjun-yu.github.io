@@ -28,11 +28,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}. This work is licensed under {MIT}'
+    notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -63,7 +63,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
@@ -90,7 +90,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Security
 
