@@ -27,4 +27,4 @@ The second function is the "User Information Spider," which retrieves public per
 
 By employing the Twitter Spider, users can efficiently gather substantial amounts of Twitter account information, overcoming the limitations present in the original Scweet package.
 
-The package is scheduled to be released to the public following the publication of the research paper titled "Who are the Followers of Chinese Public Diplomacyon Twitter." However, if you are interested in using the package immediately, please feel free to contact me. I would be more than happy to assist you!
+The package is scheduled to be released to the public following the publication of the research paper titled "Who are the Followers of Chinese Public Diplomacy on Twitter." However, if you are interested in using the package immediately, please feel free to contact me. I would be more than happy to assist you!

@@ -24,10 +24,12 @@ organizations:
 
 # Interests to show in About widget
 interests:
+  - Chinese Politics
+  - Comparative Politics
+  - Computational and Statistical Method
   - Political Communication
   - Public Opinion
-  - Computational Method
-  - Chinese Politics
+  
 
 # Education to show in About widget
 education:
@@ -86,5 +88,5 @@ email: 'Jianjyu@uiowa.edu'
 highlight_name: true
 ---
 
-Greetings. I am currently pursuing my Ph.D. in the Political Science Department at the University of Iowa. My primary research areas include political communication and public opinion within the context of China, automated content analysis, and causal inference. My work focuses on understanding the influence of government-led propaganda on Chinese public sentiment and the impact of public opinion on policy formulation and official appointments. My research methodology leverages advanced computational methods, employing these to collect, analyze, and derive causal inferences from large-scale text and image data. 
+Greetings! I am currently pursuing my Ph.D. in the Political Science Department at the University of Iowa. My primary research areas include political communication and public opinion within the context of China, automated content analysis, and causal inference. My work focuses on understanding the influence of government-led propaganda on Chinese public sentiment and the impact of public opinion on policy formulation and official appointments. My research methodology leverages advanced computational methods, employing these to collect, analyze, and derive causal inferences from large-scale text and image data. 
 {style="text-align: justify;"}

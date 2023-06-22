@@ -1,5 +1,5 @@
 ---
-title: 'Who are the Followers of Chinese Public Diplomacyon Twitter'
+title: 'Who are the Followers of Chinese Public Diplomacy on Twitter'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

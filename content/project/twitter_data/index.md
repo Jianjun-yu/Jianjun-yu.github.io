@@ -1,6 +1,6 @@
 ---
 title: Twitter data
-summary: 1 million followers of Chinese Public Diplomacy on Twitter
+summary: 1 million followers of Chinese 'Wolf Warrior' Diplomats on Twitter
 tags:
   - twitter_data
 date: '2022-02-27T00:00:00Z'
