@@ -43,8 +43,6 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
 
-url_pdf: 'xxx'
-
 
 ---
 

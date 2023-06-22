@@ -50,7 +50,7 @@ image:
   preview_only: false
 
 
-url_pdf: 'xxx'
+url_pdf: 'https://github.com/Jianjun-yu/Jianjun_website/blob/main/content/publication/Transformer-based%20Language%20Models%20for%20Text%20Clustering/Transformer_based_Language_Models_for_Text_Clustering.pdf'
 
 
 ---
