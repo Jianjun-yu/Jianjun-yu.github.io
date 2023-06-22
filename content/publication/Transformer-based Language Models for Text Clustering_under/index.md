@@ -54,6 +54,6 @@ url_pdf: 'xxx'
 
 
 ---
-Appendix_A is an introducation of transformer-based models [appendix_A](https://test/).
-Other supplementary[appendixes](https://test/).
+Appendix_A is an introducation of transformer-based models [appendix_A](https://github.com/Jianjun-yu/Jianjun_website/blob/main/content/publication/Transformer-based%20Language%20Models%20for%20Text%20Clustering/Appendix%20A%20An%20Introduction%20of%20Transformer-based%20language%20models%20for%20Political%20Scientists.pdf).
+Other supplementary[appendixes](https://github.com/Jianjun-yu/Jianjun_website/blob/main/content/publication/Transformer-based%20Language%20Models%20for%20Text%20Clustering/Appendix%20B%20The%20Selection%20of%20the%20Optimal%20number%20of%20cluster.pdf).
 
