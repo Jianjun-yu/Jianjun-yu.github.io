@@ -146,6 +146,34 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
+  - block: experience
+    id: teaching 
+    content:
+      title: Teaching experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Primary instructor course
+          description: |2-
+            Introduction to Public Opinion
+
+            Online course: Introduction to Political psychology 
+
+        - title: Teaching assistant
+          description: |2-
+            Political analysis
+            
+            Introduction to Comparative Politics
+            
+            Introduction to International Relation
+
+            Introduction to American Foreign Policy
 
   - block: contact
     id: contact
