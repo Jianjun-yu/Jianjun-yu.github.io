@@ -32,6 +32,7 @@ abstract: Does voting in an authoritarian election influence political trust? If
 
 tags: [Political trust, Chinese politics, Grassroots election, authoritarian resilience]
 featured: false
+url_pdf: 'https://github.com/Jianjun-yu/Jianjun-yu.github.io/blob/main/content/publication/grassroot_election/political_trust_and_grassroot_election_shared.pdf'
 
 
 # Display this page in the Featured widget?
