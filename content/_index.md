@@ -17,17 +17,6 @@ sections:
     content:
       title: Research
 
-  - block: collection
-    id: featured
-    content:
-      title: Writing Samples
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card  
 
   - block: collection
     content:
@@ -109,8 +98,6 @@ sections:
       buttons:
         - name: Wechat spider
           tag: 'wechat_spider'
-        - name: Twitter spider
-          tag: 'twitter_spider'
         - name: Bibtransfer
           tag: 'bibtransfer'
     design:

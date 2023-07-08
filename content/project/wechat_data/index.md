@@ -1,6 +1,6 @@
 ---
 title: WeChat data
-summary: More than 3 million posts made by Chinese prefecture-level city government official WeChat propaganda accounts
+summary: More than 3 million posts made by Chinese prefecture-level city government official WeChat propaganda accounts.
 tags:
   - wechat_data
 date: '2022-02-27T00:00:00Z'

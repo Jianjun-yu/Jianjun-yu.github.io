@@ -1,6 +1,6 @@
 ---
 title: Bibtransfer
-summary: A python code to conver a biblatex file for overleaf usage
+summary: A Python code to convert a BibLaTeX file for Overleaf usage.
 tags:
   - bibtransfer
 date: '2020-08-02T00:00:00Z'

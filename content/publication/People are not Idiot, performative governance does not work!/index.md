@@ -1,5 +1,5 @@
 ---
-title: 'People are not Idiot, performative governance does not work!'
+title: 'People are not Idiots, Performative Governance Does not Work'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

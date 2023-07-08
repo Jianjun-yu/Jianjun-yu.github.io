@@ -1,6 +1,6 @@
 ---
 title: Twitter data
-summary: 1 million followers of Chinese 'Wolf Warrior' Diplomats on Twitter
+summary: More than 4 million followers of Chinese ’Wolf Warrior’ diplomats on Twitter
 tags:
   - twitter_data
 date: '2022-02-27T00:00:00Z'
@@ -19,7 +19,7 @@ url_video: ''
 
 ---
 
-This data set includes published personal information of 500,000 followers of Chunying Hua, Assistant Minister of Foreign Affairs of China, on twitter and 500,000 followers of Lijian Zhao, Deputy Director of the Boundary and Ocean Affairs Department of the Ministry of Foreign Affairs, on twitter. Both figures are identified as a prominent leaders of the new generation of "China's 'Wolf Warrior' Diplomats." And they are all very outspokend on Twitter. 
+This data set all followers of Chunying Hua, Assistant Minister of Foreign Affairs of China, on twitter and Lijian Zhao, Deputy Director of the Boundary and Ocean Affairs Department of the Ministry of Foreign Affairs, on twitter. Both figures are identified as a prominent leaders of the new generation of "China's 'Wolf Warrior' Diplomats." And they are all very outspokend on Twitter. 
 
 The personal information include, twitter name, the number of following, the number of followers, the number of tweets, join_date, birthday, location, professional, website, and their short description.
 

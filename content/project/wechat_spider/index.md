@@ -1,6 +1,6 @@
 ---
 title: WeChat spider
-summary: A python package to collect WeChat official account posts
+summary: A Python package to collect WeChat official account posts.
 tags:
   - wechat_spider
 date: '2022-02-27T00:00:00Z'
