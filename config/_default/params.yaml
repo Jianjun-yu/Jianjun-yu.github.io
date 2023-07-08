@@ -90,7 +90,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: false
+    enable: true
 
 # Security
 
